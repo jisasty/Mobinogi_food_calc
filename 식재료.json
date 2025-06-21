@@ -1,0 +1,71 @@
+{
+  "마요네즈": {
+    "quantity": 3,
+    "ingredients": {
+      "달걀": 10,
+      "식용유": 2
+    },
+    "time_seconds": 45
+  },
+  "밀가루": {
+    "quantity": 3,
+    "ingredients": {
+      "밀": 15
+    },
+    "time_seconds": 600
+  },
+  "치즈": {
+    "quantity": 3,
+    "ingredients": {
+      "우유": 6,
+      "소금": 1
+    },
+    "time_seconds": 600
+  },
+  "면": {
+    "quantity": 3,
+    "ingredients": {
+      "밀가루": 3,
+      "달걀": 5,
+      "물이 든 병": 1
+    },
+    "time_seconds": 1500
+  },
+  "생크림": {
+    "quantity": 3,
+    "ingredients": {
+      "우유": 12,
+      "달걀": 6,
+      "설탕": 2
+    },
+    "time_seconds": 1500
+  },
+  "물에 불린 콩": {
+    "quantity": 5,
+    "ingredients": {
+      "콩": 30,
+      "물이 든 병": 3
+    },
+    "time_seconds": 1200
+  },
+  "두부": {
+    "quantity": 3,
+    "ingredients": {
+      "물에 불린 콩": 3,
+      "물이 든 병": 3,
+      "소금": 2,
+      "옷감": 3
+    },
+    "time_seconds": 3300
+  },
+  "두유": {
+    "quantity": 3,
+    "ingredients": {
+      "물에 불린 콩": 3,
+      "물이 든 병": 3,
+      "소금": 1,
+      "식용유": 1
+    },
+    "time_seconds": 3300
+  }
+}

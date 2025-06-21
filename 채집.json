@@ -1,0 +1,71 @@
+{
+  "달걀": {
+    "requires": []
+  },
+  "물이 든 병": {
+    "requires": {
+      "빈 병": 1
+    },
+    "produces": 2
+  },
+  "우유": {
+    "requires": {
+      "빈 병": 1
+    },
+    "produces": 2
+  },
+  "조개": {
+    "requires": []
+  },
+  "허브": {
+    "requires": []
+  },
+  "감자": {
+    "requires": []
+  },
+  "양파": {
+    "requires": []
+  },
+  "사과": {
+    "requires": []
+  },
+  "얼음": {
+    "requires": []
+  },
+  "브리흐네 잉어": {
+    "requires": []
+  },
+  "은붕어": {
+    "requires": []
+  },
+  "무지개 송어": {
+    "requires": []
+  },
+  "은어": {
+    "requires": []
+  },
+  "고등어": {
+    "requires": []
+  },
+  "연어": {
+    "requires": []
+  },
+  "메기": {
+    "requires": []
+  },
+  "옥수수": {
+    "requires": []
+  },
+  "파스닙": {
+    "requires": {}
+  },
+  "콩": {
+    "requires": {}
+  },
+  "농어": {
+    "requires": {}
+  },
+  "밀": {
+    "requires": {}
+  }
+}
