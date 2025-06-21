@@ -1,6 +1,6 @@
 {
   "달걀": {
-    "requires": []
+    "requires": {}
   },
   "물이 든 병": {
     "requires": {
@@ -15,46 +15,46 @@
     "produces": 2
   },
   "조개": {
-    "requires": []
+    "requires": {}
   },
   "허브": {
-    "requires": []
+    "requires": {}
   },
   "감자": {
-    "requires": []
+    "requires": {}
   },
   "양파": {
-    "requires": []
+    "requires": {}
   },
   "사과": {
-    "requires": []
+    "requires": {}
   },
   "얼음": {
-    "requires": []
+    "requires": {}
   },
   "브리흐네 잉어": {
-    "requires": []
+    "requires": {}
   },
   "은붕어": {
-    "requires": []
+    "requires": {}
   },
   "무지개 송어": {
-    "requires": []
+    "requires": {}
   },
   "은어": {
-    "requires": []
+    "requires": {}
   },
   "고등어": {
-    "requires": []
+    "requires": {}
   },
   "연어": {
-    "requires": []
+    "requires": {}
   },
   "메기": {
-    "requires": []
+    "requires": {}
   },
   "옥수수": {
-    "requires": []
+    "requires": {}
   },
   "파스닙": {
     "requires": {}
